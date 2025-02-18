@@ -1,10 +1,12 @@
-import pygame
-
 # Colours
-RED = (255, 0, 0)
-GREEN = (0, 255, 0)
-BLUE = (0, 0, 255)
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 YELLOW = (255, 255, 0)
 ORANGE = (255, 128, 0)
+LIGHT_BLUE = (102, 204, 255)
+GRAY = (160, 160, 160)
+BROWN = (102, 51, 0)
+
+# Sun
+SUN_CENTER = (255, 50)
+SUN_RADIUS = 50
